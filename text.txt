@@ -1,0 +1,3 @@
+Data Analysis
+
+<p>I am a big data science enthusiast, with never ending curiosity for statistics, machine learning and data visualization. During my personal projects I analyzed various data sources from <a href="https://twitter.com/dog_rates">WeRateDogs</a> to <a href="https://en.wikipedia.org/wiki/Hungarian_parliamentary_election,_2018">Hungarian 2018 elections</a>, using different technologies, including Python, R and Tableau.</p>
