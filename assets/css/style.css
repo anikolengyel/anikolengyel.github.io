@@ -631,6 +631,15 @@ body {
 	font-family: 'Lato', sans-serif;
 }
 
+.inline-block {
+	display: inline-block;
+}
+
+.counter-padding {
+	padding-right: 0.2em;
+	padding-left: 0.2em;
+}
+
 /* 07. SKILLS
 =================================================*/
 
